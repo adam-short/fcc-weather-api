@@ -1,0 +1,26 @@
+* { font-family: "Roboto"; }
+.center-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+#switch {
+  font-size: 2rem;
+  border: none;
+  background: none;
+  border-bottom: grey solid 2px;
+  text-align: center;
+  padding: 25px 50px;
+}
+
+#icon {
+  width: 100px;
+  padding: 25px 50px;
+}
